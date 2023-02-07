@@ -21,7 +21,7 @@ on:
       packages:
         description: 'Packages'
         required: true
-        default: 'luci-app-'
+        default: 'xray-core|xray-plugin'
 
 env:
   REPO_TOKEN: ${{ secrets.REPO_TOKEN }}
