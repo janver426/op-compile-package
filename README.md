@@ -17,7 +17,6 @@
 [![GitHub Forks](https://img.shields.io/github/forks/kenzok8/compile-package.svg?style=flat-square&label=Forks)](https://github.com/kenzok8/compile-package)
 [![PRs Welcome][3]][4]
 [![Issue Welcome][5]][6]
-[![AutoBuild][12]][13]
 
 
 ##### 源码来源：
