@@ -32,6 +32,7 @@ jobs:
     permissions:
       contents: write
       discussions: write
+      pull-requests: write
       
     name: Build ${{matrix.target}}
     strategy:
