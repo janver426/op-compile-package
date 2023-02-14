@@ -32,7 +32,6 @@ jobs:
     permissions:
       contents: write
       discussions: write
-      pull-requests: write
       issues: write
       
     name: Build ${{matrix.target}}
