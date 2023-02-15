@@ -21,7 +21,7 @@ on:
       packages:
         description: 'Packages'
         required: true
-        default: '.* 2'
+        default: '(xray-core|xray-plugin)'
 
 env:
   REPO_TOKEN: ${{ secrets.REPO_TOKEN }}
