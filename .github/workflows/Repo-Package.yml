@@ -21,7 +21,7 @@ on:
       packages:
         description: 'Packages'
         required: true
-        default: '(xray-core|xray-plugin)'
+        default: '(chinadns-ng)'
 
 env:
   REPO_TOKEN: ${{ secrets.REPO_TOKEN }}
