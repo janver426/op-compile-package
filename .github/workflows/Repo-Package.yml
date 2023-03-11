@@ -21,7 +21,7 @@ on:
       packages:
         description: 'Packages'
         required: true
-        default: '(luci-app-ssr-plus)'
+        default: '(chinadns-ng)'
 
 env:
   REPO_TOKEN: ${{ secrets.REPO_TOKEN }}
